@@ -55,7 +55,7 @@ Now, open your browser and visit http://localhost:5173 🚀✨
 📌 Result Page
 ![Screenshot 2025-02-11 214743](https://github.com/user-attachments/assets/4e819c4d-2347-4ec5-9941-d7cc9c7572d0)
 
-📌 Invalid Input Handling
+📌 Invalid Input Handling Page
 ![Screenshot 2025-02-11 214802](https://github.com/user-attachments/assets/9ba4f9c6-4710-423a-93b5-55fce3dce48e)
 
 ---
